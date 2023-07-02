@@ -1,0 +1,251 @@
+rec_id,culture,sex,given_name,surname,street_number,address_1,state,date_of_birth,phone_number,national_identifier,blocking_number,address_2
+rec-0-org,eng,f,ellyn,smedley,62,bunurung close,nsw,19260222,612713892,66254184,2,
+rec-1-org,eng,f,christy,adcock,42,hargraves crescent,nsw,19100615,2874409,73242506,2,
+rec-2-org,eng,f,blondene,,10,flora place,vic,19211224,08672857,67323468,4,hd blanche sec 28
+rec-3-org,eng,f,analynne,mcdougall,33,tenison-woods circuit,vic,19760218,618275966,92187103,3,
+rec-4-org,eng,f,maureen,merricks,,pearson street,nsw,19140217,02508230,24880083,1,rainmore
+rec-5-org,eng,m,morgian,hyland,15,laker crescent,qld,,613717813,44348524,7,glenview
+rec-6-org,eng,f,lyndsea,haywood,55,dempsey place,vic,19810713,8660978,99167457,0,
+rec-7-org,eng,f,opaline,banister,120,namadgi circuit,sa,19550613,2511522817,68498634,7,
+rec-8-org,eng,f,bryony,triggs,27,balfour crescent,nsw,19840726,2066073,74887708,9,
+rec-9-org,eng,f,tawny,leonardson,32,groom street,,19880317,2511414700,84993385,2,
+rec-10-org,eng,f,beileag,espenson,110,brassington place,,19670101,2513751262,83648925,6,boonal
+rec-11-org,eng,f,devondra,merrickson,11,taggerty street,vic,19651206,8039626,38335995,0,
+rec-12-org,eng,f,daelyn,victors,6,wilshire street,,19880425,2511049868,74777659,0,
+rec-13-org,eng,f,morven,brownlow,250,chisholm street,vic,19390620,618098980,57900465,7,
+rec-14-org,eng,f,kenzy,babcock,181,bindiri place,vic,19570727,618208723,49606891,4,
+rec-15-org,eng,f,crissa,traviss,18,tallara parkway,vic,19960817,2513174043,53269203,3,
+rec-16-org,eng,f,darnetta,neville,48,molloy crescent,nsw,19981002,2511051740,96219788,5,westbury
+rec-17-org,eng,f,jacelyn,milton,13,greenough circuit,vic,19070303,08565713,53577578,5,
+rec-18-org,eng,f,joleigh,sharman,507,fernyhough crescent,nsw,19301120,02470498,31802276,6,
+rec-19-org,eng,f,beatrix,timberlake,23,,qld,19081104,3892255,82225239,2,
+rec-20-org,eng,m,paecca,milton,116,keverstone circuit,vic,19570806,2513856884,25924193,9,
+rec-21-org,eng,,callum,,484,grounds crescent,nsw,19140604,2767935,50018194,8,
+rec-22-org,eng,f,norma,mcnab,2,hyde place,qld,19280811,03933371,11643489,0,
+rec-23-org,eng,f,azubah,kendrick,21,summerville crescent,wa,19470326,08482595,56664602,2,
+rec-24-org,eng,f,tamsin,christophers,24,badimara street,act,19210505,2247450,67303613,3,
+rec-25-org,eng,,sienna,seaver,48,boddington crescent,qld,19740120,03594190,60528211,7,nedlyn
+rec-26-org,eng,f,marlynn,ellisson,1,louisa lawson crescent,nsw,,02322854,83891438,6,nioka
+rec-27-org,eng,f,briony,jepson,88,gilmore crescent,nsw,19200803,02808764,67656078,8,bonnie doon
+rec-28-org,eng,,jackson,smythe,77,eugenia street,sa,19781122,617138242,85591836,0,
+rec-29-org,eng,f,gaynes,nathanson,43,brownlow place,nsw,19120810,2186455,46949709,7,
+rec-30-org,eng,f,calanthia,hyland,24,william wilkins crescent,tas,19440911,07738506,28273110,9,huntlywood
+rec-31-org,eng,f,jacquette,pound,58,hibiscus crescent,qld,19960530,613052943,16672480,8,
+rec-32-org,eng,f,ottilie,fairburn,23,currie crescent,sa,19760222,07898499,20361388,5,brae view
+rec-33-org,eng,m,udayle,savege,22,maughan crescent,nsw,19010124,612329293,43417384,1,john paul nursing
+rec-34-org,eng,f,lalla,michaels,15,edmondson street,vic,19990429,8005134,92336315,2,blueberry
+rec-35-org,eng,f,jennalee,thorn,2,o'sullivan street,vic,,8189600,36261285,0,
+rec-36-org,eng,f,aubrianne,quickley,13,wakefield garden,nsw,19571130,02277170,80713086,9,
+rec-37-org,eng,f,taralynn,bramson,33,bourne street,sa,19230820,7170976,64078459,1,
+rec-38-org,eng,f,jayde,elmerson,195,burrinjuck crescent,sa,19920629,07792886,36691832,1,
+rec-39-org,eng,m,wulfgeat,carlyle,102,knox street,qld,,03478222,86733464,2,
+rec-40-org,eng,f,sarahjeanne,,6,stokes street,nsw,19050707,612453631,10612852,8,st john of god hospital
+rec-41-org,eng,f,maitena,harman,4,streeton drive,vic,19061122,8349279,85790907,2,
+rec-42-org,eng,,joel,haroldson,4,bussell crescent,nsw,19750719,02098854,25575105,1,
+rec-43-org,eng,f,kilie,styles,7,wiburd street,nsw,19470622,2921398,49055665,3,
+rec-44-org,eng,,anthony,carlyle,6,bizant street,sa,19260129,7479910,68871313,8,
+rec-45-org,eng,f,nelle,dickenson,135,astrolabe street,qld,19780423,3980991,12014468,4,brentwood village
+rec-46-org,eng,f,joeanna,royce,154,wagga street,nsw,19510414,,72361620,6,
+rec-47-org,eng,m,snot,becket,64,buckmaster crescent,vic,19410622,8054928,14821069,6,minjarra
+rec-48-org,eng,f,lettice,neville,45,braddon place,qld,19390420,03210047,73205176,6,
+rec-49-org,eng,,hudson,cristiansen,14,shore place,,19421226,2511484557,32273842,2,kings apmts
+rec-50-org,eng,m,lucio,anson,66,tristania street,,,2511436246,94816265,9,
+rec-51-org,eng,f,delicia,clawson,23,sproule circuit,vic,19541205,618516070,68376499,6,pearce shoppng centre
+rec-52-org,eng,f,ashleena,rennoll,7,gascoyne circuit,nsw,,2408752,79792304,5,fairlane estate
+rec-53-org,eng,f,arlyn,daniell,,john cleland crescent,wa,19540608,08303663,66877371,4,grant hostel room
+rec-54-org,eng,f,elivina,abramson,4,blanche place,vic,19891023,08807820,60224286,4,
+rec-55-org,eng,f,maggie,thomson,13,hector place,nsw,19240924,612937351,52637564,0,parkway centre
+rec-56-org,eng,f,luanna,ryely,2,saggers close,,,2513717726,91752539,4,
+rec-57-org,eng,,bailey,mccallum,22,leibnitz place,nsw,,2509627,45062398,0,
+rec-58-org,eng,,jessica,hardwick,15,dalyell street,vic,19700713,618382184,42012593,5,
+rec-59-org,eng,,max,wortham,10,magrath crescent,nsw,19670218,02355810,25143920,8,wirruna
+rec-60-org,eng,f,darylene,midgley,10,morton street,vic,19591227,08308484,92019188,2,
+rec-61-org,eng,f,katy,isaacson,271,martin street,nsw,19350302,02840901,63565329,8,lakeview court
+rec-62-org,eng,,harrison,reynell,34,giles street,nsw,19610612,2238347,36391966,6,
+rec-63-org,eng,,olivia,cocks,49,yiman street,tas,19951218,617019004,44923228,6,
+rec-64-org,eng,f,kermeilde,jeanes,168,hodgson crescent,,19911124,2511414638,22220495,6,ocean star villas
+rec-65-org,eng,,henry,elmerson,204,woollum street,wa,19980527,08139612,33132169,3,orchid square
+rec-66-org,eng,,abbey,taggart,28,mcintosh street,,,2513371374,16027806,1,gorge creek orchards
+rec-67-org,eng,f,chasity,mackenzie,38,scratchley place,wa,19731108,2511397145,76810501,0,
+rec-68-org,eng,,hannah,cristiansen,33,coningham street,vic,19370626,618996791,95805723,7,
+rec-69-org,eng,f,delia,derricks,1,antill street,nsw,19950711,2868004,17163422,5,
+rec-70-org,eng,f,angelica,kersey,9,coane street,sa,19040229,7520621,16656236,8,
+rec-71-org,eng,f,cydney,danielson,13,chevalier street,sa,,7607463,53753253,8,clftn waters vlge
+rec-72-org,eng,f,shiphrah,bardsley,72,tuck place,nsw,19200521,02353325,41248302,8,yalgoora
+rec-73-org,eng,f,barb,tasker,10,mchugh street,vic,19200322,08483134,11794731,4,
+rec-74-org,eng,f,carmina,gardener,15,gymea street,qld,19080413,2511366880,11509713,7,calderwood
+rec-75-org,eng,f,eostre,senior,167,quick street,qld,19020420,613240070,78291763,8,
+rec-76-org,eng,,lauren,turnbull,63,boobialla street,,19800517,2513020435,26566948,4,
+rec-77-org,eng,f,mikki,herberts,36,hodgson crescent,nsw,19490810,02255550,14995905,3,
+rec-78-org,eng,f,kammi,huxtable,8,novar street,qld,19270313,03660018,37592425,1,
+rec-79-org,eng,f,verita,hawk,15,wisdom place,nsw,19681023,,90892054,0,
+rec-80-org,eng,f,laney,cristiansen,16,australie close,vic,,618166511,81237569,4,
+rec-81-org,eng,,joshua,hamm,6,broinowski place,qld,19360217,613962261,38319176,8,heritage est
+rec-82-org,eng,f,haylie,kyles,1,birdwood street,wa,19221219,08819075,89159968,1,
+rec-83-org,eng,f,allyse,banister,53,ballarat street,vic,19750728,8599573,23248986,3,
+rec-84-org,eng,,shelby,sanderson,7,white crescent,nsw,19340528,612266573,38875535,2,wirruna
+rec-85-org,eng,f,ashleah,vipond,38,brunswick circuit,vic,19581105,618506945,29233625,3,
+rec-86-org,eng,f,fawna,harden,5,howie court,qld,,613264717,87433943,6,
+rec-87-org,eng,f,maryanne,hume,121,collyburl crescent,nsw,19370323,02210937,83890176,8,emu ground
+rec-88-org,eng,f,epiphany,trevis,297,carstensz street,nsw,19350616,2513732086,34001971,6,rose valley farm
+rec-89-org,eng,,isabelle,elder,175,folingsby street,nsw,19810414,,43529060,3,
+rec-90-org,eng,m,sherm,savege,24,tyrrell circuit,nsw,19501020,612066382,91296984,9,
+rec-91-org,eng,f,josephine,ingham,84,winser crescent,nsw,19790318,2134190,11379905,6,
+rec-92-org,eng,f,tessie,addison,19,archdall street,nsw,,2622390,17615198,7,
+rec-93-org,eng,,samantha,clausson,240,garrett place,wa,19180514,8936451,24569561,2,
+rec-94-org,eng,m,,hyland,9,mockridge crescent,nsw,19120406,612738443,94967059,0,weatherboa
+rec-95-org,eng,f,jennilee,abram,173,kernot street,,,2511430746,86076653,6,summer hill
+rec-96-org,eng,f,alexina,leonardson,8,homann place,nsw,19251122,02971814,13520787,5,winter park
+rec-97-org,eng,f,gerrit,gardener,41,munga place,qld,19830527,2513100029,91928188,7,
+rec-98-org,eng,f,hunter,mckellar,3317,cotter road,,19950221,2513338003,69129765,2,lamington national
+rec-99-org,eng,f,shonda,sutherland,6,tyrrell circuit,act,19511006,612288481,10980771,7,bolinda vale
+rec-100-org,eng,f,nelwin,cock,5,kellick place,vic,,618011428,27196984,2,
+rec-101-org,eng,f,averyl,proudfoot,57,morduant place,vic,19710113,618025051,88959855,0,
+rec-102-org,eng,f,eireann,babcock,54,barlee place,wa,19470629,08737087,14112291,5,greenhills
+rec-103-org,eng,f,willa,newport,14,merv waite street,,19550108,2511538239,55616387,6,
+rec-104-org,eng,f,annalee,rigby,3,stapylton street,vic,19000914,618512849,11347203,4,
+rec-105-org,eng,f,savanna,ryers,45,moran place,nsw,19570727,612834103,35529688,7,warrawong
+rec-106-org,eng,f,andi,wootton,121,kambalda crescent,qld,19320816,613002367,60326485,0,
+rec-107-org,eng,f,emiily,wootton,5,wyangala street,vic,19450805,618036522,66266712,8,
+rec-108-org,eng,f,jonni,ryeley,139,ivo whitton circuit,nsw,19741211,612991204,30018289,8,winooka
+rec-109-org,eng,f,celinda,scrivenor,102,rylah crescent,wa,19560209,08082537,39053600,4,
+rec-110-org,eng,f,chelsey,coke,41,tallara parkway,vic,19110202,8643594,54129559,6,
+rec-111-org,eng,f,helen,kimball,16,lane place,sa,19391216,7680256,38624255,1,
+rec-112-org,eng,f,cyndee,mckenny,27,bissenberger crescent,,19600210,2513281763,45797342,7,
+rec-113-org,eng,f,cedar,benjaminson,15,fitzsimmons street,nsw,,02047145,15600350,6,launceston golf club
+rec-114-org,eng,,alexander,fairclough,1,bear place,nsw,19310110,612747019,70881533,1,oakvale cottage
+rec-115-org,eng,f,rubye,bloxam,14,bendora crescent,qld,,3913594,92440486,2,
+rec-116-org,eng,f,gaynes,quincy,31,julius street,nsw,19680609,2878308,49145808,7,tinbidgeree
+rec-117-org,eng,m,,samuelson,8,dethridge street,,,,64808133,1,
+rec-118-org,eng,f,cindel,jeffries,1,templeton street,act,19481108,02840324,45510148,6,tallageris-demijoh
+rec-119-org,eng,f,evelina,mackenzie,794,longstaff street,qld,,03320779,63825141,7,ballymannin
+rec-120-org,eng,f,tavia,steed,44,jerrabomberra avenue,qld,19640913,613704095,93214080,8,
+rec-121-org,eng,f,kayleen,christophers,4,hawker street,vic,19141012,8927513,29656112,7,
+rec-122-org,eng,,jeremy,ellisson,122,nemarang crescent,qld,19291110,613661540,72656606,6,
+rec-123-org,eng,f,apryl,quigg,164,clift crescent,sa,19650222,7510660,50227439,8,
+rec-124-org,eng,f,brande,dannel,108,garanya street,,19691104,2511181914,69363113,0,eden park
+rec-125-org,eng,m,thymel,lukeson,,marshall street,qld,19620401,3588990,32523685,7,marylebone
+rec-126-org,eng,f,baylee,hume,1,harbison crescent,qld,19951215,03786955,37749408,4,
+rec-127-org,eng,f,milly,rigby,45,sparkes close,nsw,19831007,2513821084,53943954,4,st pauls court
+rec-128-org,eng,f,ernestine,abrahams,10,donnison place,qld,19180315,,78563649,7,maalancamp
+rec-129-org,eng,m,fortinbras,samuelson,260,lampard circuit,nsw,19640714,2994803,61379513,6,dudley specialist medical centre
+rec-130-org,eng,,tara,scrivens,7,colquhoun street,act,19440709,02023824,38906583,1,
+rec-131-org,eng,,xani,fairclough,65,scrivener street,vic,19800625,8186276,26941936,5,hi pine
+rec-132-org,eng,,joanna,kitchens,68,strzelecki crescent,nsw,19260420,612386029,53344002,9,rosetta village
+rec-133-org,eng,f,lauryn,jacobsen,51,gingana street,nsw,19750316,612336886,81846438,4,telopea park
+rec-134-org,eng,,rhys,ikin,15,barada crescent,qld,19450418,03359373,49956018,8,
+rec-135-org,eng,f,kimberleigh,hermanson,84,kellway street,,,2511477395,19283924,1,mallam chambers
+rec-136-org,eng,,jemma,paterson,18,,qld,19000919,613324184,92405110,8,miranda
+rec-137-org,eng,f,haydee,mckenny,16,meymott place,nsw,,2825533,29165711,6,eastwood cottage
+rec-138-org,eng,m,fate,statham,138,colefax place,sa,,7284474,99589680,4,
+rec-139-org,eng,f,laklynn,simonson,39,southern cross drive,vic,19210402,2513694792,85587845,1,
+rec-140-org,eng,,alexander,harman,41,drysdale circuit,nsw,19040714,612443023,54130774,3,
+rec-141-org,eng,,reuben,victors,5,webster street,vic,19251010,08683864,18962366,4,
+rec-142-org,eng,f,britani,ikin,17,harper street,nsw,19710811,612959023,45136062,9,grant hostel room
+rec-143-org,eng,,fynn,lund,21,vansittart crescent,nsw,19210407,02978867,46109036,1,
+rec-144-org,eng,f,edwyna,cock,175,la perouse street,sa,,07291789,54233748,4,holmeleigh
+rec-145-org,eng,f,bijou,morce,19,alice jackson crescent,tas,19150220,617672581,97438398,9,kilvinton village
+rec-146-org,eng,,thomas,stroud,3,rochford street,vic,19200621,8780492,63537236,4,
+rec-147-org,eng,f,merlyn,isaacson,11,crozier circuit,vic,19990614,08601534,55478464,0,sunshine coast private hosptl medcl cent
+rec-148-org,eng,,joshua,summerfield,67,anzac park,vic,19960911,8540626,41487393,1,
+rec-149-org,eng,,aiden,rennoll,45,amaroo street,nt,19670405,3314970,63177959,4,groveview
+rec-150-org,eng,f,kenzie,sempers,3,hemmant street,nsw,19380525,612349234,19263160,7,
+rec-151-org,eng,,sarah,anthonyson,111,carter place,qld,19070526,3937408,16713049,4,
+rec-152-org,eng,f,holea,jeanes,8,port arthur street,wa,19590201,618080563,11010636,5,
+rec-153-org,eng,f,torri,rayne,24,julius street,nsw,19171211,02562000,98658994,2,uloola
+rec-154-org,eng,,zarran,alfson,224,eucumbene drive,nsw,,2368052,82854968,6,
+rec-155-org,eng,f,caitrin,gibb,79,maitland street,nsw,19410511,2513160815,69684807,5,mountain view farm
+rec-156-org,eng,f,tisha,matheson,16,bunduluk crescent,qld,19050609,613763481,58379415,7,
+rec-157-org,eng,f,edwina,savege,,heagney crescent,nsw,19280101,612875147,60404628,8,
+rec-158-org,eng,f,callista,turnbull,21,bindaga street,vic,19601012,8586297,70906245,3,
+rec-159-org,eng,m,odda,spearing,110,dexter street,act,19870502,,39800091,5,
+rec-160-org,eng,f,trecia,kyles,11,bussau close,qld,19490318,613680028,55906273,4,cecil plains
+rec-161-org,eng,m,bardoul,daniell,43,federal highway,nsw,19551203,612425038,85917501,0,waiweer
+rec-162-org,eng,f,caitlyn,hogarth,22,freda bennett circuit,vic,19450317,618830644,25241137,2,prospect creek
+rec-163-org,eng,f,dorothy,henryson,305,longford street,vic,19080905,08720465,72069079,7,
+rec-164-org,eng,f,domek,scrivener,3,faithfull circuit,qld,19451215,613722000,29039222,6,
+rec-165-org,eng,f,catrina,spear,58,lightfoot crescent,nsw,19020505,2629557,47551077,7,
+rec-166-org,eng,f,tayte,styles,292,antill street,sa,19060504,617729979,49201670,9,
+rec-167-org,eng,f,hyacintha,badcock,57,discovery street,qld,19200716,03316626,67323868,9,
+rec-168-org,eng,f,muira,rowntree,24,,nsw,19630127,2066461,76871116,7,sec 91
+rec-169-org,eng,,joshua,jamison,142,marawa place,vic,19220801,618178511,91173610,3,
+rec-170-org,eng,f,reagan,goffe,19,jinka street,nsw,19860609,2532943,11299810,5,
+rec-171-org,eng,,willow,way,29,whiteside court,tas,19380903,07647719,81352653,4,owendale
+rec-172-org,eng,f,dayne,kitchens,84,archibald street,tas,19490721,07780426,96856395,3,
+rec-173-org,eng,f,addison,britton,360,getting crescent,qld,19971221,03339537,98565076,4,donvale retirement
+rec-174-org,eng,f,rosannah,badcoke,31,john young crescent,sa,19080702,07875577,61915586,3,edgewater
+rec-175-org,eng,m,penn,dickenson,139,cygnet crescent,nsw,,,21169838,1,rowethorpe
+rec-176-org,eng,f,neelie,christopher,15,charterisville avenue,,19441218,2513744887,63138799,8,farm shed
+rec-177-org,eng,,evan,masterson,18,archer street,,19180430,2513488610,38663274,8,
+rec-178-org,eng,f,iva,wakefield,14,belconnen way,qld,,3779166,35773943,5,the chase
+rec-179-org,eng,f,deziree,cristianson,79,ibis street,nsw,19350913,2577267,50033079,8,
+rec-180-org,eng,f,jenai,clifford,1,holyman street,sa,19120104,7718837,31025170,1,
+rec-181-org,eng,f,kenina,jamison,21,dunstan street,vic,19140208,618861087,20626421,9,east end
+rec-182-org,eng,m,holcombe,spear,349,gooromon ponds road,qld,19681205,03741314,31740576,8,
+rec-183-org,eng,f,kitlyn,christinson,144,broadsmith street,sa,19620306,7412223,72932083,7,
+rec-184-org,eng,,caitlin,macdougall,2770,jerrabomberra avenue,vic,,618265657,13052564,0,
+rec-185-org,eng,f,olita,bulle,87,james scott close,nsw,19440205,02553870,54402478,9,bandera
+rec-186-org,eng,,kiara,milburn,1,marsden street,nsw,19820808,02165490,35480740,1,
+rec-187-org,eng,f,celia,dennel,97,johnstone circuit,tas,19691007,2511412619,52802261,2,
+rec-188-org,eng,f,avianna,mcnab,183,hannaford street,tas,19911227,617855255,95258117,9,
+rec-189-org,eng,f,,witherspoon,7,bragg street,nsw,19750103,2621590,24641775,5,
+rec-190-org,eng,m,stefn,timothyson,45,hicks street,nsw,,2511393231,23451573,0,
+rec-191-org,eng,f,jaden,timothyson,58,medley street,qld,19400828,03820877,46420730,4,summerdale medical centre
+rec-192-org,eng,f,rhetta,taggart,620,fulford place,wa,19981102,8574899,55536352,2,
+rec-193-org,eng,,lucy,gabrielson,73,cowper street,wa,19520307,8436624,99253812,7,jormaizee
+rec-194-org,eng,f,ginger,cock,9,bainton crescent,vic,19420729,8293378,51350277,1,
+rec-195-org,eng,f,chelsea,bardsley,23,mcmaster street,qld,19540714,3478092,70891925,7,croudace house
+rec-196-org,eng,m,attkins,christophers,7,kiewa street,vic,19760710,08425878,33215413,8,marlin coast medical cntr smithfield sho
+rec-197-org,eng,,henry,sharman,118,outtrim avenue,nsw,19351231,612264715,55493388,7,glen-vale
+rec-198-org,eng,f,aleta,carlyle,20,monkman street,,19161017,2513036129,58420146,2,
+rec-199-org,eng,,sebastian,sands,13,fowles street,qld,19910820,03075640,94714935,9,
+rec-77-dup-0,eng,f,mickki,herperts,36,hodgson crescent,nsw,19490810,02255550,14995905,3,
+rec-165-dup-0,eng,f,kadrina,spear,58,lightfoot crescent,nsw,19020505,2629557,47551077,7,
+rec-117-dup-0,eng,m,,samuelspm,8,dethridge street,,,,64808133,1,
+rec-84-dup-0,eng,,jhelby,zanderson,7,white crescent,nsw,19340528,612266573,38875535,2,wirruna
+rec-104-dup-0,eng,f,annal e,rigb y,3,stapylton street,vic,19000914,618512849,11347203,4,
+rec-86-dup-0,eng,f,fana,haahden,5,howie court,qld,,613264717,87433943,6,
+rec-168-dup-0,eng,f,muira,rowndrea,24,,nsw,19630127,2066461,76871116,7,sec 91
+rec-39-dup-0,eng,m,wulfgeat,carhlyle,102,knox street,qld,,03478222,86733464,2,
+rec-114-dup-0,eng,,fairclough,alexander,1,bear place,nsw,19310110,612747019,70881533,1,oakvale cottage
+rec-31-dup-0,eng,f,jacquete,pound,58,hibiscus crescent,qld,19960530,613052943,16672480,8,
+rec-90-dup-0,eng,m,sherm,savee,24,tyrrell circuit,nsw,19501020,612066382,91296984,9,
+rec-155-dup-0,eng,f,caitrkn,gibb,79,maitland street,nsw,19410151,2513160815,69684807,5,mountain view farm
+rec-112-dup-0,eng,f,cyjdee,mckentny,27,bissenberger crescent,,19600210,2513281763,45797342,7,
+rec-192-dup-0,eng,f,rheta,taggaaht,620,fulford place,wa,19981102,8574899,55536352,2,
+rec-97-dup-0,eng,f,ger i t,gardener,41,munga place,qld,19830527,2513100029,91928188,7,
+rec-142-dup-0,eng,f,britani,iki ,17,harper street,nsw,19710811,612959 23,45136062,9,grant hostel room
+rec-150-dup-0,eng,f,kenzie,sempers,3,hemmant street,nsw,193805 5,612349234,1g263160,7,
+rec-126-dup-0,eng,f,bayl e,hu me,1,harbison crescent,qld,19951215,03786955,37749408,4,
+rec-149-dup-0,eng,,aiden,rebnoll,45,amaroo street,nt,19674005,3314970,63177959,4,groveview
+rec-2-dup-0,eng,f,lolon ene,,10,flora place,vic,19211224,08672857,67323468,4,hd blanche sec 28
+rec-94-dup-0,eng,m,,hylan,9,mockridge crescent,nsw,19120406,612738443,94967059,0,weatherboa
+rec-120-dup-0,eng,f,tavis,stedd,44,jerrabomberra avenue,qld,19640913,613704095,93214080,8,
+rec-96-dup-0,eng,f,alexiina,leonarsson,8,homann place,nsw,19251122,02971814,13520787,5,winter park
+rec-83-dup-0,eng,f,allyse,panisteah,53,ballarat street,vic,19750728,8599573,23248986,3,
+rec-1-dup-0,eng,f,crijty,adcock,42,hargraves crescent,nsw,19100615,2874409,73242506,2,
+rec-60-dup-0,eng,f,tarylene,mitgley,10,morton street,vic,19591227,08308484,92019188,2,
+rec-12-dup-0,eng,f,taelyn,victoahs,6,wilshire street,,19880425,2511049868,74777659,0,
+rec-131-dup-0,eng,,fairclough,xani,65,scrivener street,vic,19800625,8186276,26941936,5,hi pine
+rec-162-dup-0,eng,f,hogarth,caitlyn,22,freda bennett circuit,vic,19450317,618830644,25241137,2,prospect creek
+rec-80-dup-0,eng,f,cristiansen,laney,16,australie close,vic,,618166511,81237569,4,
+rec-160-dup-0,eng,f,trecia,,11,bussau close,qld,19490318,613680028,55906273,4,cecil plains
+rec-42-dup-0,eng,,zoel,haroldston,4,bussell crescent,nsw,19750719,02098854,25575105,1,
+rec-13-dup-0,eng,f,morfen,bronlow,250,chisholm street,vic,19390620,618098980,57900465,7,
+rec-71-dup-0,eng,f,cydney,danielson,13,clftn waters vlge,sa,,7607463,53753253,8,chevalier street
+rec-188-dup-0,eng,f,avyanna,mknab,183,hannaford street,tas,19911227,617855255,95258117,9,
+rec-51-dup-0,eng,f,delicia,clawso,23,sproule circuit,vic,19541205,618516070,68376499,6,pearce shoppng centre
+rec-186-dup-0,eng,,kiara,milbufn,1,marsden street,nsw,19820908,02165490,35480740,1,
+rec-125-dup-0,eng,m,dymel,lukeson,,marshall street,qld,19620401,3588990,32523685,7,marylebone
+rec-118-dup-0,eng,f,cind el,jeffgries,1,templeton street,act,19481108,02840324,45510148,6,tallageris-demijoh
+rec-21-dup-0,eng,,kalum,,484,grounds crescent,nsw,19140604,2767935,50018194,8,
+rec-167-dup-0,eng,f,yacintha,badkock,57,discovery street,qld,19200716,03316626,67323868,9,
+rec-26-dup-0,eng,f,marl nn,ellisson,1,louisa lawson crescent,nsw,,02322854,8389 438,6,nioka
+rec-105-dup-0,eng,f,savaiba,ryers,45,moran place,nsw,19570727,612834103,35529688,7,warrawong
+rec-181-dup-0,eng,f,kenia,jamison,21,dunstan street,vic,19150208,618861087,20626421,9,east end
+rec-187-dup-0,eng,f,cel a,denneI,97,johnstone circuit,tas,19691007,2511412619,52802261,2,
+rec-8-dup-0,eng,f,bryony,triggs,27,balfour crescent,nsw,1984726,2066073,74887708,9,
+rec-64-dup-0,eng,f,ckermeilde,seanes,168,hodgson crescent,,19911124,2511414638,22220495,6,ocean star villas
+rec-178-dup-0,eng,f,ivfa,wakefield,14,belconnen way,qld,,3779166,35773943,5,the chase
+rec-130-dup-0,eng,,tara,stkrivens,7,colquhoun street,act,19440709,02023824,38906583,1,
+rec-140-dup-0,eng,,alexander,rman,41,drysdale circuit,nsw,19040714,612443023,54130774,3,
