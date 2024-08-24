@@ -1,3 +1,4 @@
+scipy==1.12.0
 entrypoints==0.3
 flake8==3.7.9
 mccabe==0.6.1
@@ -12,3 +13,5 @@ gensim==4.3.1
 nltk==3.8.1
 scikit_learn==1.2.2
 category_encoders==2.6.0
+matplotlib==3.9.0
+recordlinkage==0.16

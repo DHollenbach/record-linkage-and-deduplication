@@ -7,12 +7,14 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import LinearSVC
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import accuracy_score
+import nltk
 from nltk.tokenize import word_tokenize
 from gensim.models import Word2Vec
 import joblib
 import re
 from sklearn.metrics import f1_score
 
+# temp download once to drive
 #nltk.download('punkt')
 
 # Load the patient record dataset
