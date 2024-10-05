@@ -15,3 +15,5 @@ scikit_learn==1.2.2
 category_encoders==2.6.0
 matplotlib==3.9.0
 recordlinkage==0.16
+xgboost==2.1.1
+seaborn==0.13.2
