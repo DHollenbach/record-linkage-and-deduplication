@@ -14,5 +14,9 @@ In conclusion, the results of this research have significant implications for th
 
 Keywords: Machine Learning; Master Patient Index; Record Linking; Deduplication; Synthetic Dataset;
 
+### Publications
+
+1. Performing record linkage and deduplication in master patient index using machine learning classifiers, SAI Computing Conference, 2025, London, United Kingdom (In Press)
+
 For a look at the code see below:
 [notebook code](https://github.com/DHollenbach/record-linkage-and-deduplication/blob/main/duplicategenerator/mict_recordlinkage_2023_24_new.ipynb)
